@@ -1,8 +1,8 @@
 import './App.css';
-import TextInput from './components/TextInput.jsx';
+import Todo from './components/Todo.jsx';
 
 export default function App() {
   return (
-    <TextInput />
+    <Todo />
   );
 }
